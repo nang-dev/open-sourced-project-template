@@ -1,6 +1,6 @@
 # Open-Sourced Project Template
 
-This template serves as a starting point for open-source projects, providing a foundation for collaboration and development. It was derived from a project called Sweep AI.
+This template serves as a starting point for open-source projects, providing a foundation for collaboration and development. It was derived from a project called Sweep AI. 
 
 
 ## Getting Started
